@@ -21,7 +21,7 @@
     "test": "react-scripts test --watchAll=false",
     "eject": "react-scripts eject",
     "lint": "eslint --ext .ts --ext .tsx --fix",
-    "precommit": "lint-staged && npm run test"
+    "precommit": "lint-staged"
   },
   "eslintConfig": {
     "extends": "react-app"
