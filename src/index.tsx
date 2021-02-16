@@ -1,11 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { ClientContextProvider } from 'react-fetching-library';
+
+import Client from './API/client/client';
+
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <ClientContextProvider client={Client}>
+      <App />
+    </ClientContextProvider>
   </React.StrictMode>,
   document.getElementById('root'),
 );

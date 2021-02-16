@@ -1,0 +1,20 @@
+[
+  {
+    "firstName": "Capitaine",
+    "lastName": "Le loubard",
+    "age": 2,
+    "image": "https://www.nationalgeographic.com/content/dam/animals/thumbs/rights-exempt/mammals/d/domestic-dog_thumb.jpg"
+  },
+  {
+    "firstName": "Balti",
+    "lastName": "Le miaou",
+    "age": 5,
+    "image": "https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png"
+  },
+  {
+    "firstName": "Bruce",
+    "lastName": "Le dormeur",
+    "age": 18,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ps8TZRyIWb6SoQdrElDc0BWnkwI9p0TiSQ&usqp=CAU"
+  }
+]
